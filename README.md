@@ -13,10 +13,18 @@ Copyright © All Right Reserved Vivekanand Defence Academy Sikar
   
   
 ## Documentation
+* INDEX
 ![INDEX](https://github.com/sandeepsamota045/AN-Education-Institute-Portfolio-Website/blob/main/art/Index.jpg)
 
-  
-  
+* QUICK LINKS
+![INDEX](https://github.com/sandeepsamota045/AN-Education-Institute-Portfolio-Website/blob/main/art/quicklinks.jpg)
+
+* FACILITIES
+![INDEX](https://github.com/sandeepsamota045/AN-Education-Institute-Portfolio-Website/blob/main/art/facilities.jpg)
+
+* FOOTER
+![INDEX](https://github.com/sandeepsamota045/AN-Education-Institute-Portfolio-Website/blob/main/art/footer.jpg)
+    
 ## Acknowledgements
 I would like to thank Virendra Diloya and Kuldeep Saini. they provided us with invaluable advice and helped us in difficult periods. His motivation and help contributed tremendously to the successful completion of the project.
 
