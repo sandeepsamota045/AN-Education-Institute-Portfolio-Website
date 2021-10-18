@@ -14,7 +14,7 @@ Copyright © All Right Reserved Vivekanand Defence Academy Sikar
   
 ## Documentation
 
-![GifSample](art/sample.gif)
+![GifSample](art/index.jpg)
 
   
   
