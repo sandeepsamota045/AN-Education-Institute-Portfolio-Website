@@ -13,8 +13,7 @@ Copyright © All Right Reserved Vivekanand Defence Academy Sikar
   
   
 ## Documentation
-
-![GifSample](art/index.jpg)
+![INDEX](https://github.com/sandeepsamota045/AN-Education-Institute-Portfolio-Website/blob/main/art/Index.jpg)
 
   
   
